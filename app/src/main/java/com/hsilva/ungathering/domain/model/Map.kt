@@ -3,5 +3,6 @@ package com.hsilva.ungathering.domain.model
 data class Map(
     val id: Int,
     val name: String,
-    val lands: List<Land>
+    val size: Int,
+    val lands: List<Land>,
 )

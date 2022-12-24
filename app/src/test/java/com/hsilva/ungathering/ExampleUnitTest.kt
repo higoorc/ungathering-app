@@ -21,6 +21,6 @@ class ExampleUnitTest {
         val types = listOf(Type.BLACK, Type.RED, Type.BLUE)
         val result = CreateMap().invoke(types, 5)
 
-        assert(result)
+        assert(result.isNotEmpty())
     }
 }
