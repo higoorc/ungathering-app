@@ -45,3 +45,7 @@ All movements, encounters, and combat results are organized in a text history.
 🎙️ **Voice Record**
 
 The user can add voice notes to the history, adding flavor to the encounters.
+
+## Entities
+
+![img.png](img.png)
